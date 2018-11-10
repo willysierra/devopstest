@@ -2,8 +2,8 @@
 #RECUERDE REEMPLAZAR POR SU NOMBRE SIN ESPACIOS
 
 cd /home/adminws/agents
-mkdir pongasunombreyapellidosinespacios
-cd pongasunombreyapellidosinespacios
+mkdir williamsierra
+cd williamsierra
 sudo apt-get install -y libunwind8 libcurl3
 
 
@@ -21,3 +21,6 @@ mkdir /opt/bitnami/nginx/html/$(foldername)
 cd /opt/bitnami/nginx/html/$(foldername)
 unzip -o *.zip
 rm *.zip
+
+
+104.211.7.162
